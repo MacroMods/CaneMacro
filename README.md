@@ -4,3 +4,5 @@ Benefits:
 -reboot skip
 -free
 -anti fail
+-auto set spawn
+-afk
